@@ -1,12 +1,14 @@
 # Chapter 5: Structs, Unions, and Bitfields
 
-## Outline
-- Structs
+## What does this chapter cover?
+- `structs`
   - Declaration
   - Implementation
   - Using in a function with pointers
-- Unions
-  - Compare to Structs
+- `union`s
+  - Compare to `structs`
+- `enum`s
+- Bitfields
 
 
 

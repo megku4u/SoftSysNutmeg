@@ -4,15 +4,15 @@ Megan Ku '22 (she/her), Software Systems Spring 2021
 
 ## Project Goals
 
-This project is an exploration into the ways which different literature introduces, supports, and emphasizes the basic concepts of C programming. Unlike other projects for this course, this project will be centered around critically analyzing C textbooks and gathering insights related to diffent modes of delivery.
+This project is an exploration into the ways which different literature introduces, supports, and emphasizes the basic concepts of C programming. Unlike other projects for this course, this project will be centered around critically analyzing C textbooks and gathering insights related to different modes of delivery.
 
 ### Minimum Viable Product (MVP)
 
-The final deliverable will consist of written responses to different resources, generated exercises thay may be useful to future SoftSys students, and recommendations for those interested in deveoping a textbook for teaching C. A successful MVP will look into all three provided texts for the course and cross-analyze them. Envisioned visuals include a side-by-side comparison of when content is covered within the books. I hope to also design a medium-sized project (equivalent to 2-3 SoftSys homeworks) that would help to solidify understanding of this content.
+The final deliverable will consist of written responses to different resources, generated exercises that may be useful to future SoftSys students, and recommendations for those interested in developing a textbook for teaching C. A successful MVP will look into all three provided texts for the course and cross-analyze them. Envisioned visuals include a side-by-side comparison of when content is covered within the books. I hope to also design a medium-sized project (equivalent to 2-3 SoftSys homeworks) that would help to solidify understanding of this content.
 
 ### Stretch Goals
 
-Beyond the MVP for this project, extra "nice-to-have" milestones include developing useful visuals for a potential textbook, creating extra excercises for the reader, and exploring more texts beyond the ones provided for this course. It would also be fascinating to survey other SoftSys students to collect and understand their experiences with the current resources.
+Beyond the MVP for this project, extra "nice-to-have" milestones include developing useful visuals for a potential textbook, creating extra exercises for the reader, and exploring more texts beyond the ones provided for this course. It would also be fascinating to survey other SoftSys students to collect and understand their experiences with the current resources.
 
 ## Personal Learning Goals
 
