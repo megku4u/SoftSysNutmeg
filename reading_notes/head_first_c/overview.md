@@ -10,6 +10,7 @@
 - Information is delivered in many different ways, including "scenarios", exercises, and comics
 - There are many "interludes", including "bullet points" and "there are no Dumb Questions" sections
 - There's a lot of notebook-writing style to this book, including arrows pointing to different bits of information in code, jaunty text angles, and more
+- Chapters have breaks in them that include "bullet points" to recap key points, and "there are no Dumb Questions" sections to address smaller details or questions that the reader may have had after reading the content that preceded it.
 
 You will like this book if:
 - You get easily bored by normal textbook layouts and are willing to adapt to a drastic change
