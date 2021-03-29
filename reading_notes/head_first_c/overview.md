@@ -18,6 +18,7 @@ You will like this book if:
 - You're much more of a visual learner
 - You don't mind corny and somewhat outdated humor
 - You like when examples build on themselves throughout a chapter instead of being one-off code snippets
+- You like it when a scenario is presented that you might come across in your code, and then the new content is presented as the solution to that scenario
 
 You will not like this book if:
 - You find multiple visuals and "noise" in textbooks to be overwhelming
