@@ -18,6 +18,8 @@ Finally, I wish to improve the course for a future student (a future "Meg Ku", y
 
 ## Project Execution
 
+The bulk of this project was the individual chapter annotations of each of the three textbooks. These can be found in the [reading notes](reading_notes) folder in the GitHub repo.
+
 ### Research and Annotations
 
 ### Final Visual
