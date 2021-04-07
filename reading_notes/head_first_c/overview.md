@@ -26,7 +26,7 @@
 - You find multiple visuals and "noise" in textbooks to be overwhelming
 - You don't like it when key terms are in non-intuitive places, like comments or side sections, as opposed to the main text
 - The presence of dated/bad/uncomfortable jokes within the book may prevent you from finding utility from this book
-- You don't like it when you can't easily make structured outline notes
+- You don't like it when you can't easily make structured outline notes based on the layout of the chapter
 
 ## Chapters Annotated
 

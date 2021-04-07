@@ -34,7 +34,7 @@ Another note the author makes in the preface is that this C book is not designed
 ### You will *not* like this book if:
 
 - It can be hard to focus on the monotony of the chapters
-  - Reading this book feels like reading an essay due to the formatting of it
+  - Reading this book feels like reading an essay due to the tight formatting of it
 - You don't like exercises located in the footnotes of a chapter
 - You don't really care for having the right C jargon word to describe what you are doing
 
